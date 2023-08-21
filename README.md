@@ -2,7 +2,7 @@
 
 <h1 style='color:#44AEBF'>👨‍💻Adnan Chaudhary👨‍💻</h1>
 
-<p text-align='center'>
+<p>
 A Software Developer developing innovative software
 solutions and applications for banking customers. A proven track record of building
 and diverse development teams throughout phases of Software Development Life
